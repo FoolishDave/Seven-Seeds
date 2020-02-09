@@ -1,0 +1,36 @@
+<entries>
+	<entry name="SHADE_OFFER"> If you can replace delicious food, change your suitcase. </entry>
+	<entry name="ABYSS"> Yes, no pain, but ... it&#39;s dark. Everything ... </entry>
+	<entry name="KINGS_PASS"> Yes, the gate will not go, it is empty. </entry>
+	<entry name="WATERWAYS"> Yes, around the pipes and the water is flowing again into the black holes, it can continue. But, I couldn&#39;t buy ... </entry>
+	<entry name="HIVE"> Yes. How to live in places that will make you golden kilometers of light. </entry>
+	<entry name="SHAMAN_TEMPLE"> Yes, I could not find my ancestors. It is a translation into the traditional dark world. </entry>
+	<entry name="SHADE_CHARM"> Oh, I love entrepreneurs ... &lt;b> easy for some people, but there are some. </entry>
+	<entry name="FOG_CANYON"> Yes, the translation of foreign flowers by Hey Xuaro will be destroyed. </entry>
+	<entry name="DECLINE"> ? ???? Yes, I did nothing. </entry>
+	<entry name="OUTSKIRTS"> Yes, it can be translated into black spots in the world. </entry>
+	<entry name="COLOSSEUM"> Yes. You are a hero and continue to code ʙeaqlro. </entry>
+	<entry name="SHADE_OFFER_INTRO"> You can use it to reduce frustration and service. &lt;P> I want to, but I&#39;m not hungry. Want share? I am interested, it is not included in Bern. </entry>
+	<entry name="RITUAL_REPEAT"> I think and why. </entry>
+	<entry name="MINES"> Yes, I hide in dark gravel around particles, it can&#39;t be translated. </entry>
+	<entry name="NO_EGGS_REPEAT"> I love food ... it is clear, round and smells great. Hock ... I think it&#39;s just a mistake for me. Sure, it&#39;s good all over the world. </entry>
+	<entry name="NOSHADE_REPEAT"> He was happy. You do not have to enter different services. </entry>
+	<entry name="CLIFFS"> Yes, you can. The surrounding air is filled with dark staircases. </entry>
+	<entry name="GREEN_PATH"> Yes, I translate the forest day. </entry>
+	<entry name="LOST_SHADE"> Yes, you can translate between us. </entry>
+	<entry name="NO_EGGS"> However, there is food. I like this one more. It is very tasty and can&#39;t be fixed. </entry>
+	<entry name="NOSHADE"> Oh, you can&#39;t move like me. </entry>
+	<entry name="ROYAL_GARDENS"> Yes, you can use translation in a healthy and beautiful garden. </entry>
+	<entry name="DREAM"> What We Do Sina is tough and very dark and close. What are depression and sleep disorders? </entry>
+	<entry name="DEEPNEST"> Yes, it reflects a royal version, a tone that is vulnerable and weak, and allows us to continue the translation. </entry>
+	<entry name="CROSSROADS"> Yes, translation between authorities and down the road. </entry>
+	<entry name="MEET1"> Of course, this happened. I&#39;m here xo hereidaam .. but how? Yes, it was unexpected, but it wasn&#39;t. I can help </entry>
+	<entry name="MEET2"> If you wake up to help me and if your home. Sometimes we all have to live inside the black holes. Flowers &lt;Page> You mean? Let&#39;s try at the same time ... </entry>
+	<entry name="WASTES"> Yes, downtown is a great city and there is a black dot in the middle of the lake. </entry>
+	<entry name="CITY"> Yes, we see that there is still a problem. It is in the city center. Do not wash in the rain. </entry>
+	<entry name="GREET">What problems are good? Let&#39;s go ... </entry>
+	<entry name="QUEENS_STATION"> Yes, we see that there is still a problem. The queen&#39;s room was black. </entry>
+	<entry name="RESTING_GROUNDS"> Yes, we see that there is still a problem. Black. </entry>
+	<entry name="RITUAL_BEGIN"> The victim of the XMM ... I promised, and so it&#39;s not the wall, neither of us. </entry>
+	<entry name="RITUAL_COMPLETED"> In this book, Oh, I hate it all. She is very attractive. Hi </entry>
+</entries>
